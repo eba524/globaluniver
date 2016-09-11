@@ -14,10 +14,10 @@
                                             <div class="field-content"><img typeof="foaf:Image" src="/assets/articles/{{$article->photo}}" width="1500" height="280" alt="" /></div>
                                         </div>
                                         <div class="container"> <span><div class="views-field-field-blog-profile-image">
-        <img typeof="foaf:Image" src="/sites/default/files/CityHawk_Square.png" width="200" height="200" alt="" />
+        <img typeof="foaf:Image" src="/sites/default/files/glu_square.png" width="200" height="200" alt="" />
         </div>
         <div class="views-field-display-title">
-        <a href="/cityhawk-talk.html">CityHawk Talk</a>
+        <a href="#">Global Leadership Newsletter</a>
         </div></span> </div>
                                     </div>
                                 </div>
