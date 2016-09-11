@@ -35,7 +35,7 @@
                 <div id="block-nice-menus-1" class="block block--nice-menus block--nice-menus-1">
                     <div class="block__content">
                         <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1">
-                            <li class="menu-1228 menuparent  menu-path-node-1620 first odd "><a href="#" class="megamenu-item" title="">Admissionss</a>
+                            <li class="menu-1228 menuparent  menu-path-node-1620 first odd "><a href="#" class="megamenu-item" title="">Admissions</a>
                                 <ul>
                                     <li class="menu-2036 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Getting Enrolled</span>
                                         <ul>
@@ -73,7 +73,7 @@
                             </li>
                             <li class="menu-1230 menuparent  menu-path-node-1626  odd "><a href="#" class="megamenu-item" title="">Academics</a>
                                 <ul>
-                                    <li class="menu-1263 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Centers</span>
+                                    <li class="menu-1263 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Undergraduate programs</span>
                                         <ul>
                                             <li class="menu-3057 menu-path-node-4098 first odd "><a href="org/advanced-manufacturing-center.html">Advanced Manufacturing Center</a></li>
                                             <li class="menu-1269 menu-path-node-22  even "><a href="org/center-arts-humanities.html" class="">Arts &amp; Humanities</a></li>
@@ -83,7 +83,7 @@
                                             <li class="menu-1273 menu-path-node-40  even last"><a href="org/center-performing-arts-behavioral-social-sciences.html" class="">Performing Arts, Behavioral &amp; Social Sciences</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-2200 menuparent  menu-path-nolink  even "><span class=" nolink" title="">Helpful Links</span>
+                                    <li class="menu-2200 menuparent  menu-path-nolink  even "><span class=" nolink" title="">Graduate programs</span>
                                         <ul>
                                             <li class="menu-1902 menu-path-node-1130-mid-1902 first odd "><a href="administration/non-academic-departments/office-president/congratulations-our-academic-honor-students.html" title="Academic Honors">Academic Honors</a></li>
                                             <li class="menu-1262 menu-path-programs  even "><a href="programs.html" class="" title="">Academic Programs</a></li>
@@ -220,7 +220,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="menu-1233 menuparent  menu-path-node-1625  odd last"><a href="#" class="megamenu-item" title="">About GLUs</a>
+                            <li class="menu-1233 menuparent  menu-path-node-1625  odd last"><a href="#" class="megamenu-item" title="">About GLU</a>
                                 <ul>
                                     <li class="menu-2049 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Learn More</span>
                                         <ul>
