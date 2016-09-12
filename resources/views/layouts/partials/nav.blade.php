@@ -377,11 +377,11 @@
                                                     </div>
                                                 </div>
                                             </p>
-                                            <p>Visit the <a href="#" tabindex="-1">Educational Opportunity Center</a> for help getting started! We can assist you with finding the right major, completing admissions applications, or understanding the financial aid process. Call 303.352.8746.</div>
+                                            <p>Visit our school for help getting started! We can assist you with finding the right major, completing admissions applications, or understanding the financial aid process. Call 9901.1662</div>
                                         <div class="col-last col-1-3">
                                             <h2>Need Assistance?</h2>
                                             <h3>We're Here to Help!</h3>
-                                            <div class="sc-center">Call Us at&nbsp;99000000</div>
+                                            <div class="sc-center">Call Us at&nbsp;9901.1662</div>
                                         </div>
                                         <div style="clear:both;"></div>&nbsp;</p>
                                     </div>
