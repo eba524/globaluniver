@@ -46,7 +46,7 @@ Physical Address</span>
                         <div class="menu-block-wrapper menu-block-1 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
                             <ul class="menu">
                                 <li class="first leaf menu-mlid-2673"><a href="{{route('menu_path', 'admission')}}" target="_blank" class="" title="">Admission Requirements</a></li>
-                                <li class="leaf menu-mlid-2436"><a href="{{route('apply')}}" class="" title="">Application form</a></li>
+                                <li class="leaf menu-mlid-2436"><a href="{{route('apply_path')}}" class="" title="">Application form</a></li>
                                 <li class="leaf menu-mlid-2674"><a href="{{route('menu_path', 'tuition-fees')}}" target="_blank" class="" title="">Tuition and Fees</a></li>
                                 <li class="leaf menu-mlid-1676"><a href="{{route('menu_path', 'scholarship')}}" class="" title="">Scholarship Information</a></li>
                                 <li class="leaf menu-mlid-2675"><a href="{{route('menu_path', 'undergraduate-programs')}}" target="_blank" class="" title="">Undergradute Programs</a></li>
