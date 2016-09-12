@@ -6,7 +6,7 @@
                         <div class="block__content">
                             <div id='boxes-box-footer_logo' class='boxes-box'>
                                 <div class="boxes-box-content">
-                                    <p><img alt="Community College of Denver logo" src="/sites/all/themes/ccd_omega/logo.png" title="The Community College of Denver"></p>
+                                    <p><img alt="Global Leadership University" src="/sites/all/themes/ccd_omega/logo.png" title="Global Leadership University"></p>
                                 </div>
                             </div>
                         </div>

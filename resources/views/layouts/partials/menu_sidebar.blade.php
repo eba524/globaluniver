@@ -20,22 +20,18 @@
                                 <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
                                     <div class="views-field views-field-field-address">
                                         <div class="field-content">
-                                            <p dir="ltr"><a href="mailto:Everette.Freeman@ccd.edu">Everette J. Freeman</a>, CCD&nbsp;President
-                                                <br> 303.556.2413
+                                            <p dir="ltr"><a href="mailto:info@glu.edu.mn">Munkhjargal</a>, GLU&nbsp;Professor
+                                                <br> 9901.1662
                                             </p>
                                             <p dir="ltr">
-                                                <div class="col-1-2">Auraria Campus
-                                                    <br> Cherry Creek Building, 301
-                                                    <br> 1111 W. Colfax Ave.
-                                                    <br> Denver, CO 80204</div>
-                                                <div class="col-last col-1-2">Mailing Address
-                                                    <br> Campus Box 250
-                                                    <br> P.O. Box 173363
-                                                    <br> Denver, CO 80217</div>
+                                                <div class="col-1-2">Global Leadership University
+                                                    <br> Green Lake 51 street
+                                                    <br> 11th khoroo, Sukhbaatar District  
+                                                    <br> Ulaanbaatar 210620</div>
                                                 <div style="clear:both;"></div>
-                                                <h3 dir="ltr">Start a Conversation with Everette</h3>
-                                                <p dir="ltr">Everette welcomes dialog and conversations with CCD students via <a href="http://www.twitter.com/EveretteCCD" target="_blank">Twitter</a> and <a href="https://www.facebook.com/EveretteFreemanCCD" target="_blank">Facebook</a>.
-                                                    <br> Post your "Selfies" with Everette on Facebook or Twitter!</p>
+                                                <h3 dir="ltr">Start a Conversation with Munkhjargal</h3>
+                                                <p dir="ltr">Munkhjargal welcomes dialog and conversations with GLU students via <a href="https://twitter.com/altanhuy" target="_blank">Twitter</a> and <a href="https://www.facebook.com/GlobalLeadershipUniversity" target="_blank">Facebook</a>.
+                                                    <br> Post your "Selfies" with Munkhjargal on Facebook or Twitter!</p>
                                         </div>
                                     </div>
                                 </div>
