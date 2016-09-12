@@ -345,12 +345,12 @@
                                                     <div id="file-5651" class="file file-image file-image-jpeg" class="file file-image file-image-jpeg">
                                                         <h2 class="element-invisible"><a href="{{route('menu_path', '#')}}">CCDRecruit-MegaMenu.jpg</a></h2>
                                                         <div class="content">
-                                                            <img alt="CCD students at the Welcome Center" title="Enroll in CCD - Start by Talking with Your Recruitment Officer" class="media-element file-default" typeof="foaf:Image" src="/sites/default/files/CCDRecruit-MegaMenu.jpg" /> </div>
+                                                            <img alt="GLU students at the Welcome Center" title="" class="media-element file-default" typeof="foaf:Image" src="/sites/default/files/CCDRecruit-MegaMenu.jpg" /> </div>
                                                     </div>
                                                 </div>
                                             </p>
                                             <p>Do you have questions about the enrollment process or about GLU in general? We're here to help!</p>
-                                            <p><a href="future-students/apply-ccd-today/meet-your-recruitment-officer.html">Find Your Recruitment Officer. </a></div>
+                                            <p><a href="{{route('menu_path', 'recruitment')}}">Find Your Recruitment Officer. </a></div>
                                         <div class="col-last col-1-3">
                                             <h2>Why Choose GLU</h2>
                                             <p><a href="{{route('menu_path', 'discover')}}" tabindex="-1">Visit our school &amp; Discover More</a>
@@ -373,7 +373,7 @@
                                                     <div id="file-2065" class="file file-image file-image-jpeg" class="file file-image file-image-jpeg">
                                                         <h2 class="element-invisible"><a href="files-detail/megamenucurrentjpg.html">MegaMenu_current.jpg</a></h2>
                                                         <div class="content">
-                                                            <img alt="Students in the New Confluence Building" title="CCD Students in the New Confluence Building Overlooking the Rocky Mountains" class="media-element file-default" typeof="foaf:Image" src="/sites/default/files/MegaMenu_current.jpg" /> </div>
+                                                            <img alt="Students in the New Confluence Building" title="GLU students at class" class="media-element file-default" typeof="foaf:Image" src="/sites/default/files/MegaMenu_current.jpg" /> </div>
                                                     </div>
                                                 </div>
                                             </p>
@@ -427,17 +427,17 @@
 
                                             <h2>Helpful Links</h2>
                                             
-                                            <p>Use the <a href="https://ccd.edu/cost_calculator/" tabindex="-1" target="_blank">Cost Calculator</a> &amp; find out how little you'll pay at CCD where you'll have access to 40 Academic Programs in a wide variety of fields.</p>
+                                            <p>Use the <a href="https://ccd.edu/cost_calculator/" tabindex="-1" target="_blank">Cost Calculator</a> &amp; find out how little you'll pay at GLU where you'll have access to 40 Academic Programs in a wide variety of fields.</p>
                                             <p>And use these resources to learn more.</p>
                                             <div class="col-1-2">
-                                                <p><a href="http://catalog.ccd.edu/" tabindex="-1" target="_blank">2016-2017 Course Catalog</a></p>
-                                                <p><a href="programs.html">Academic Programs</a></p>
-                                                <p><a href="administration/non-academic-departments/academic-advising-center/certificates-degrees.html" tabindex="-1">Certificates &amp; Degrees</a></p>
-                                                <p><a href="https://erpdnssb.cccs.edu/PRODCCD/bwckschd.p_disp_dyn_sched" tabindex="-1" target="_blank">Schedule of Courses</a></div>
+                                                <p><a href="#" tabindex="-1" target="_blank">2016-2017 Course Catalog</a></p>
+                                                <p><a href="#">Academic Programs</a></p>
+                                                <p><a href="#" tabindex="-1">Certificates &amp; Degrees</a></p>
+                                                <p><a href="#" tabindex="-1" target="_blank">Schedule of Courses</a></div>
                                             <div class="col-last col-1-2">
-                                                <p><a href="administration/non-academic-departments/office-president/congratulations-our-academic-honor-students.html" tabindex="-1">Academic Honors</a>
-                                                    <p><a href="https://ccd.desire2learn.com/" tabindex="-1" target="_blank">Online &amp; Hybrid Courses</a></p>
-                                                    <p><a href="administration/non-academic-departments/office-provost/transfer-agreements.html" tabindex="-1">Transfer Agreements </a></div>
+                                                <p><a href="#" tabindex="-1">Academic Honors</a>
+                                                    <p><a href="#" tabindex="-1" target="_blank">Online &amp; Hybrid Courses</a></p>
+                                                    <p><a href="#" tabindex="-1">Transfer Agreements </a></div>
                                             <div style="clear:both;"></div>
                                         </div>
                                         <div style="clear:both;"></div>
@@ -461,7 +461,7 @@
                                                 <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1">All Non-Academic Departments</a></p>
                                                 <p>&nbsp;</p>
                                                 <h2>Need Technical Help?</h2>
-                                                <p>Call the CCD Helpdesk at 303.556.4283</div>
+                                                <p>Call the GLU Helpdesk at 9901.1662</div>
                                         <div class="col-1-4">
                                             <h2>Global Leadership</h2>
                                             <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1">All Student Forms</a>

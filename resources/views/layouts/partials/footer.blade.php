@@ -45,17 +45,17 @@ Physical Address</span>
                     <nav id="block-menu-block-1" role="navigation" class="block block--menu-block block--menu-block-1">
                         <div class="menu-block-wrapper menu-block-1 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
                             <ul class="menu">
-                                <li class="first leaf menu-mlid-2673"><a href="http://library.auraria.edu/" target="_blank" class="" title="">Admission Requirements</a></li>
-                                <li class="leaf menu-mlid-2436"><a href="docs/clery-act-report.html" class="" title="">Application form</a></li>
-                                <li class="leaf menu-mlid-2674"><a href="http://catalog.ccd.edu/" target="_blank" class="" title="">Tuition and Fees</a></li>
-                                <li class="leaf menu-mlid-1676"><a href="administration/non-academic-departments/institutional-research-planning/common-data-set.html" class="" title="">Scholarship Information</a></li>
-                                <li class="leaf menu-mlid-2675"><a href="https://bannercas.cccs.edu/cas/login?vpdi=ccdonline&amp;service=https%3a%2f%2fccd.desire2learn.com%2fd2l%2fcustom%2fcas" target="_blank" class="" title="">Undergradute Programs</a></li>
-                                <li class="leaf menu-mlid-1710"><a href="privacy-electronic-communications-policies.html" class="" title="">Graduate Programs</a></li>
-                                <li class="leaf menu-mlid-1677"><a href="administration/non-academic-departments/institutional-research-planning/gainful-employment.html" class="" title="">Clubs</a></li>
-                                <li class="leaf menu-mlid-1720"><a href="administration/non-academic-departments/human-resources/equal-opportunity/notice-non-discrimination.html" class="" title="">Safety</a></li>
-                                <li class="leaf menu-mlid-1769"><a href="complaint-filing-procedure-students-outside-colorado.html" class="" title="">Library</a></li>
-                                <li class="leaf menu-mlid-2676"><a href="org/press-room.html" class="" title="">Studio</a></li>
-                                <li class="last leaf menu-mlid-2677"><a href="docs/tags/report-an-incident.html" class="" title="">Global Leader</a></li>
+                                <li class="first leaf menu-mlid-2673"><a href="{{route('menu_path', 'admission')}}" target="_blank" class="" title="">Admission Requirements</a></li>
+                                <li class="leaf menu-mlid-2436"><a href="{{route('apply')}}" class="" title="">Application form</a></li>
+                                <li class="leaf menu-mlid-2674"><a href="{{route('menu_path', 'tuition-fees')}}" target="_blank" class="" title="">Tuition and Fees</a></li>
+                                <li class="leaf menu-mlid-1676"><a href="{{route('menu_path', 'scholarship')}}" class="" title="">Scholarship Information</a></li>
+                                <li class="leaf menu-mlid-2675"><a href="{{route('menu_path', 'undergraduate-programs')}}" target="_blank" class="" title="">Undergradute Programs</a></li>
+                                <li class="leaf menu-mlid-1710"><a href="{{route('menu_path', 'graduate-programs')}}" class="" title="">Graduate Programs</a></li>
+                                <li class="leaf menu-mlid-1677"><a href="{{route('menu_path', 'clubs')}}" class="" title="">Clubs</a></li>
+                                <li class="leaf menu-mlid-1720"><a href="{{route('menu_path', 'safety')}}" class="" title="">Safety</a></li>
+                                <li class="leaf menu-mlid-1769"><a href="{{route('menu_path', 'library')}}" class="" title="">Library</a></li>
+                                <li class="leaf menu-mlid-2676"><a href="{{route('menu_path', 'studio')}}" class="" title="">Studio</a></li>
+                                <li class="last leaf menu-mlid-2677"><a href="{{route('menu_path', 'global-leader')}}" class="" title="">Global Leader</a></li>
                             </ul>
                         </div>
                     </nav>
@@ -64,9 +64,9 @@ Physical Address</span>
                     <nav id="block-menu-block-4" role="navigation" class="block block--menu-block block--menu-block-4">
                         <div class="menu-block-wrapper menu-block-4 menu-name-menu-footer-menu-2 parent-mlid-0 menu-level-1">
                             <ul class="menu">
-                                <li class="first leaf menu-mlid-1765"><a href="about-ccd/learn-more/contact-us.html" class="" title="">School of Business</a></li>
-                                <li class="leaf menu-mlid-1766"><a href="https://ccdcareers.silkroad.com/" target="_blank" class="" title="">School of Medicine</a></li>
-                                <li class="last leaf menu-mlid-1768"><a href="org/ccd-campus-safety.html" class="" title="">School of Humanities</a></li>
+                                <li class="first leaf menu-mlid-1765"><a href="{{route('menu_path', 'business')}}" class="" title="">School of Business</a></li>
+                                <li class="leaf menu-mlid-1766"><a href="{{route('menu_path', 'medicine')}}" target="_blank" class="" title="">School of Medicine</a></li>
+                                <li class="last leaf menu-mlid-1768"><a href="{{route('menu_path', 'humanities')}}" class="" title="">School of Humanities</a></li>
                             </ul>
                         </div>
                     </nav>
