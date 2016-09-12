@@ -3,11 +3,11 @@
                     <div class="block__content">
                         <div class="menu-block-wrapper menu-block-ccd_sidebar_menu menu-name-main-menu parent-mlid-0 menu-level-4">
                             <ul class="menu">
-                                <li class="first leaf menu-mlid-1901"><a href="../administration/non-academic-departments/office-president/congratulations-our-academic-honor-students.html">Academic Honors</a></li>
-                                <li class="collapsed menu-mlid-2888"><a href="../administration/non-academic-departments/office-president/achieving-strategic-balance-ccd.html">CCD Prioritization Process</a></li>
-                                <li class="leaf menu-mlid-3006"><a href="../administration/non-academic-departments/office-provost/higher-learning-commission-re-affirmation.html" class="" title="">HLC Re-Affirmation Process</a></li>
-                                <li class="leaf menu-mlid-1585"><a href="office-president/staff.html">Meet the Staff</a></li>
-                                <li class="last leaf menu-mlid-2173"><a href="office-president/docs.html" class="" title="">Student Forms</a></li>
+                                <li class="first leaf menu-mlid-1901"><a href="#">Course Catalog 2016-2017</a></li>
+                                <li class="leaf menu-mlid-2888"><a href="#">Library</a></li>
+                                <li class="leaf menu-mlid-3006"><a href="#" class="" title="">GLU Philosophy</a></li>
+                                <li class="leaf menu-mlid-1585"><a href="#">Meet the Staff</a></li>
+                                <li class="last leaf menu-mlid-2173"><a href="#" class="" title="">Application Form</a></li>
                             </ul>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                                     </div>
                                     <div class="views-field views-field-title"> <span class="field-content"><a href="../event/community-dialogue-september-6.html">{{$event->title}}</a></span> </div>
                                     <div class="views-field views-field-field-event-date-1">
-                                        <div class="field-content"><span class="date-display-single">{{$event->time}}</span>
+                                        <div class="field-content"><span lass="date-display-single">{{$event->time}}</span>
                                         </div>
                                     </div>
                                     <div class="views-field views-field-field-event-location">
