@@ -445,11 +445,11 @@
                                             <p><a href="{{route('menu_path', 'studio')}}" tabindex="-1" target="_self">Studio</a></p>
                                             <p><a href="{{route('menu_path', 'global-leader')}}" tabindex="-1">Global Leader</a></p>
                                             <p><a href="{{route('menu_path', 'computer-labs')}}" tabindex="-1" target="_self">Computer Labs</a></p>
-                                            </div>
+                                        </div>
                                         <div class="col-1">
                                             <h2>Center for Executive Education</h2>
                                             <p><a href="{{route('menu_path', 'executive-education')}}" tabindex="-1">About</a>
-                                                </div>
+                                        </div>
                                         <!--<div class="col-1-4">
                                             <h2>Global Leadership</h2>
                                             <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1">All Student Forms</a>
@@ -457,8 +457,8 @@
                                         </div>
                                         <div class="col-last col-1-4">
                                         </div>
-                                        <div style="clear:both;"></div>
-                                    </div>-->
+                                        <div style="clear:both;"></div>-->
+                                    </div>
                                 </div>
                                 <div class="mega-menu-item mega-menu-item-1232">
                                     <div class="container">
