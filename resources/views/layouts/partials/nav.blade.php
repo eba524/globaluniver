@@ -76,7 +76,7 @@
                                 <ul>
                                     <li class="menu-2214 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Clubs</span>
                                         <ul>                                                                                    
-                                            <li class="menu-2215 menu-path-libraryaurariaedu- first odd "><a href="{{route('menu_path','public-speaking')}}" class="" title="">Public Speaking</a></li>
+                                            <li class="menu-2215 menu-path-libraryaurariaedu- first odd "><a href="{{route('menu_path','speaking-club')}}" class="" title="">Public Speaking</a></li>
                                             <li class="menu-2217 menu-path-ahecedu-shared-campus-services-resources-food-around-campus  even "><a href="{{route('menu_path','finance-club')}}" class="" title="">Finance Club</a></li>
                                             <li class="menu-2218 menu-path-msudenveredu-healthcenter-  odd "><a href="{{route('menu_path','translator-club')}}" class="" title="">Translator Club</a></li>
                                             <li class="menu-2220 menu-path-msudenveredu-campusrec-  odd "><a href="{{route('menu_path','creative-club')}}" class="" title="">Creative Thinking Club</a></li>
