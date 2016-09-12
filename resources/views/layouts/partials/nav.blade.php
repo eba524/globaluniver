@@ -6,7 +6,7 @@
                 <div id="block-nice-menus-2" class="block block--nice-menus block--nice-menus-2">
                     <div class="block__content">
                         <ul class="nice-menu nice-menu-down nice-menu-menu-header-menu" id="nice-menu-2">
-                            <li class="menu-1660 menu-path-node-249 first odd "><a href="{{route('apply_path')}}" class="" title="">APPLY NOW</a></li>
+                            <li class="menu-1660 menu-path-node-249 first odd "><a href="{{route('menu_path','apply-to-glu')}}" class="" title="">APPLY NOW</a></li>
                         </ul>
                     </div>
                 </div>
@@ -16,7 +16,7 @@
                             <div class="boxes-box-content">
                                 <div class="apply_chat_visit_menu">
                                     <ul>
-                                        <li><a class="fa-share" href="{{route('apply_path')}}">Apply to GLU</a></li>
+                                        <li><a class="fa-share" href="{{route('menu_path','apply-to-glu')}}">Apply to GLU</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@
                                 <ul>
                                     <li class="menu-2036 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Admission Information</span>
                                         <ul>
-                                            <li class="menu-1903 menu-path-node-1157  even "><a href="{{route('apply_path')}}" class="">How to Apply</a></li>
+                                            <li class="menu-1903 menu-path-node-1157  even "><a href="{{route('menu_path','apply-to-glu')}}" class="">How to Apply</a></li>
                                             <li class="menu-1234 menu-path-node-1168  odd "><a href="{{route('menu_path','how-to-apply')}}" class="">Admission Requirements</a></li>
                                         </ul>
                                     </li>
@@ -182,7 +182,7 @@
                                     <div class="container">
                                         <div class="col-1-3">
                                             <h2>Admission Information</h2>
-                                            <p>- <a href="{{route('apply_path')}}" tabindex="-1">How to Apply</a></p>
+                                            <p>- <a href="{{route('menu_path','apply-to-glu')}}" tabindex="-1">How to Apply</a></p>
                                             <p>- <a href="{{route('menu_path','how-to-apply')}}" tabindex="-1">Admission Requirements</a></p>
                                         </div>
                                         <div class="col-1-3">
@@ -210,7 +210,7 @@
                                     <div class="container">
                                         <div class="col-1-3">
                                             <h2>Tuition and fees</h2>
-                                            <p><a href="{{route('apply_path')}}" tabindex="-1">Apply to&nbsp;GLU</a></p>
+                                            <p><a href="{{route('menu_path','apply-to-glu')}}" tabindex="-1">Apply to&nbsp;GLU</a></p>
                                             <p><a href="{{route('menu_path', 'scholarship')}}" tabindex="-1">Scholarship information</a></p>
                                         </div>
                                         <div class="col-1-3">
