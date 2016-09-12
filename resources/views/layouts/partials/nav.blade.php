@@ -276,7 +276,12 @@
                                     <div class="container">
                                         <div class="col-1-4">
                                             <h2 class="front-box-menu-item">Clubs</h2>
-                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'glu-club')}}" tabindex="-1">GLU club</a></p>
+                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'speaking-club')}}" tabindex="-1">Public Speaking Club</a></p>
+                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'finance-club')}}" tabindex="-1">Finance Club</a></p>
+                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'translator-club')}}" tabindex="-1">Translator Club</a></p>
+                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'creative-club')}}" tabindex="-1">Creative Thinking Club</a></p>
+                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'business-club')}}" tabindex="-1">Small Businesses Support Club</a></p>
+                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'rotaract-club')}}" tabindex="-1">Global Leadership Rotaract Club</a></p>
                                         </div>
                                         <!--
                                         <div class="col-1-4">
