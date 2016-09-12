@@ -509,9 +509,9 @@
                                             <h2>Learn More</h2>
                                             <div class="col-1-2">
                                                 <p><a href="{{route('menu_path', 'philosophy')}}" tabindex="-1">GLU Philosphy</a></p>
+                                                <p><a href="{{route('menu_path', 'message-chairman')}}" tabindex="-1">Greetings from the Chairman of the Baord</a></p>
                                                 <p><a href="{{route('menu_path', 'message-president')}}" tabindex="-1">Message from the President</a></p>
                                                 <p><a href="{{route('menu_path', 'accreditation')}}" tabindex="-1">Accreditation</a></p>
-                                                <p><a href="{{route('menu_path', 'staff')}}" tabindex="-1">Staff</a></p>
                                                 <p><a href="{{route('menu_path', 'history')}}" tabindex="-1" target="_blank">School History</a></p>
                                                 <p><a href="{{route('menu_path', 'location')}}" tabindex="-1">School Location</a></p>
                                                 <p><a href="{{route('menu_path', 'contact')}}" tabindex="-1" target="_blank">Contact information</a></p>
@@ -532,9 +532,9 @@
                                                 </div>
                                                 <br> text text text</div>
                                         <div class="col-last col-1-4">
-                                            <h2>Mission &amp;<br>Strategic Plan</h2>
-                                            <p>The faculty, staff, &amp; volunteers at CCD make up a unique community with a shared vision resulting in an inspired &amp; quality higher education.</p>
-                                            <p>Together, we can shape an extraordinary future. <a href="about-ccd/vision-mission-strategic-plan.html" tabindex="-1">Learn More about Our Goals &amp; Institutional Outcomes</a>. </div>
+                                            <h2>Mission</h2>
+                                            <p>Global Leadership University is a private institution of higher learning that prepares leaders of tomorrow who are empowered to create positive differences in society through leadership in learning and character. The university strives to achieve academic excellence in conjunction with leadership development at all levels of the organization.</p>
+                                            <p><a href="{{route('menu_path', 'philosophy')}}" tabindex="-1">Learn More about Our Philosopy</a>. </div>
                                         <div style="clear:both;"></div>
                                     </div>
                                 </div>
