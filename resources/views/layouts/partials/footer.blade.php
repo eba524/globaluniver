@@ -44,13 +44,12 @@ Address</span>
                     <nav id="block-menu-block-1" role="navigation" class="block block--menu-block block--menu-block-1">
                         <div class="menu-block-wrapper menu-block-1 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
                             <ul class="menu">
-                                <li class="first leaf menu-mlid-2673"><a href="{{route('menu_path', 'admission')}}" target="_blank" class="" title="">Admission Requirements</a></li>
+                                <li class="first leaf menu-mlid-2673"><a href="{{route('menu_path', 'how-to-apply')}}" target="_blank" class="" title="">Admission Requirements</a></li>
                                 <li class="leaf menu-mlid-2436"><a href="{{route('apply_path')}}" class="" title="">Application form</a></li>
-                                <li class="leaf menu-mlid-2674"><a href="{{route('menu_path', 'tuition-fees')}}" target="_blank" class="" title="">Tuition and Fees</a></li>
                                 <li class="leaf menu-mlid-1676"><a href="{{route('menu_path', 'scholarship')}}" class="" title="">Scholarship Information</a></li>
                                 <li class="leaf menu-mlid-2675"><a href="{{route('menu_path', 'undergraduate-programs')}}" target="_blank" class="" title="">Undergradute Programs</a></li>
                                 <li class="leaf menu-mlid-1710"><a href="{{route('menu_path', 'graduate-programs')}}" class="" title="">Graduate Programs</a></li>
-                                <li class="leaf menu-mlid-1677"><a href="{{route('menu_path', 'clubs')}}" class="" title="">Clubs</a></li>
+                                <li class="leaf menu-mlid-1677"><a href="{{route('menu_path', 'rotaract')}}" class="" title="">Global Leadership Rotaract Club</a></li>
                                 <li class="leaf menu-mlid-1720"><a href="{{route('menu_path', 'safety')}}" class="" title="">Safety</a></li>
                                 <li class="leaf menu-mlid-1769"><a href="{{route('menu_path', 'library')}}" class="" title="">Library</a></li>
                                 <li class="leaf menu-mlid-2676"><a href="{{route('menu_path', 'studio')}}" class="" title="">Studio</a></li>
