@@ -24,8 +24,7 @@
                             <div class="boxes-box-content">
                                 <div class="front-box-title">Global Leadership University</div>
                                 <p>Global Leadership University will become a research intensive, comprehensive university renowned for its research, scholarship and innovation by creating a student centered learning environment, promoting excellence in teaching and learning, and offering internationally recognized educational programs in Mongolia and the world.</p>
-                                <p class="node text-align-center"><a class="button yellow" href="/apply">Apply to GLU&nbsp;</a>
-                                    <!--<a class="button purple" href="https://ccd.edu/cost_calculator/">We're Affordable</a>-->
+                                <p class="node text-align-center"><a class="button yellow" href="/menu/apply-to-glu">Apply to GLU&nbsp;</a>
                                     @if($subbanner1)
                                     <div class="front-page-menu-thumb thumb-wide hover-red">
                                         <a href="future-students/schedule-your-visit.html">
