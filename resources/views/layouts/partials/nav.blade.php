@@ -339,10 +339,9 @@
                                 <div class="mega-menu-item mega-menu-item-1228">
                                     <div class="container">
                                         <div class="col-1-3">
-                                            <h2>Admission requirements</h2>
-                                            <p>Admission requirements will be added here. <a href="{{route('menu_path', 'admission')}}">Read more</a></p>
-                                            <p>- <a href="{{route('apply_path')}}" tabindex="-1">Apply now!</a></p>
-                                            <p>- <a href="{{route('menu_path','how-to-apply')}}" tabindex="-1">How to apply</a></p>
+                                            <h2>Admission Information</h2>
+                                            <p>- <a href="{{route('apply_path')}}" tabindex="-1">How to Apply</a></p>
+                                            <p>- <a href="{{route('menu_path','how-to-apply')}}" tabindex="-1">Admission Requirements</a></p>
                                         </div>
                                         <div class="col-1-3">
                                             <p>&nbsp;&nbsp;&nbsp;</p>
@@ -356,12 +355,12 @@
                                                 </div>
                                             </p>
                                             <p>Do you have questions about the enrollment process or about GLU in general? We're here to help!</p>
-                                            <p><a href="{{route('menu_path', 'recruitment')}}">Find Your Recruitment Officer. </a></div>
-                                        <div class="col-last col-1-3">
+                                            <p><a href="{{route('menu_path', 'contact')}}">Learn More</a></div>
+                                        <!--<div class="col-last col-1-3">
                                             <h2>Why Choose GLU</h2>
                                             <p><a href="{{route('menu_path', 'discover')}}" tabindex="-1">Visit our school &amp; Discover More</a>
                                                 <p><a href="{{route('menu_path', 'course-catalogs')}}" tabindex="-1">Course Catalogs</a></p>
-                                                <p><a href="{{route('menu_path', 'schedules')}}" tabindex="-1">Schedules</a>&nbsp;</div>
+                                                <p><a href="{{route('menu_path', 'schedules')}}" tabindex="-1">Schedules</a>&nbsp;</div>-->
                                         <div style="clear:both;"></div>
                                     </div>
                                 </div>
