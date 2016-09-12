@@ -17,7 +17,6 @@
                                 <li class="first leaf menu-mlid-1667"><a href="https://www.facebook.com/GlobalLeadershipUniversity" class="fa fa-lg fa-facebook" title="" target="_blank">Facebook</a></li>
                                 <li class="leaf menu-mlid-1668"><a href="https://twitter.com/altanhuy" class="fa fa-lg fa-twitter" title="" target="_blank">Twitter</a></li>
                                 <li class="leaf menu-mlid-1669"><a href="https://www.youtube.com/channel/UCsgsn0qSymnYk7jfnBFUKXg" class="fa fa-lg fa-youtube" title="" target="_blank">YouTube</a></li>
-                                <li class="last leaf menu-mlid-1943"><a href="https://plus.google.com/u/0/114966869435332277946/posts" target="_blank" class="fa fa-lg fa-linkedin" title="">LinkedIn</a></li>
                             </ul>
                         </div>
                     </nav>
@@ -29,8 +28,8 @@
                                 <div class="boxes-box-content">
                                     <p><span class="white-bold">Contact Information<br>
 <br>
-Physical Address</span>
-                                        <br> Green Lake 51 street
+Address</span>
+                                        <br> 51 Green Lake street
                                         <br> 11th khoroo, Sukhbaatar district
                                         <br> 210620 Mongolia
                                         <br> Tel: +976 99011662, +976 89905006

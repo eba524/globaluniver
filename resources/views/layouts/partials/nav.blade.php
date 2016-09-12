@@ -420,13 +420,13 @@
 
                                         <div class="col-last col-1-3">
 
-                                            <h2>Helpful Links</h2>
+                                            <h2>Faculty &amp; Staff</h2>
                                             
                                             <p>Use these resources to learn more.</p>
                                             <div class="col-1-2">
                                                 <p><a href="https://drive.google.com/file/d/0B2YD9OixE0VMZDNiR1kzMzlvOUVTVVNkalJRRWhVV0w0WW5v/view?usp=sharing" tabindex="-1" target="_blank">2016-2017 Undergraduate Course Catalog</a></p>
                                                 <p><a href="https://drive.google.com/file/d/0B2YD9OixE0VMdFFXcVRYam45VkJ2TzZyLWIwMTlZdm5CVmFV/view?usp=sharing" target="_blank">2016-2017 Graduate Course Catalog</a></p>
-                                                <p><a href="#" tabindex="-1">Certificates &amp; Degrees</a></p>
+                                                <p><a href="#" tabindex="-1">Certificates  Degrees</a></p>
                                                 <p><a href="#" tabindex="-1" target="_blank">Schedule of Courses</a></div>
                                             <div class="col-last col-1-2">
                                                 <p><a href="#" tabindex="-1">Academic Honors</a>
@@ -463,9 +463,9 @@
                                 <div class="mega-menu-item mega-menu-item-1232">
                                     <div class="container">
                                         <div class="col-last col-1-3">
-                                            <h2>Schools</h2>
+                                            <h2>About Us</h2>
                                             <p><a href="{{route('menu_path', 'taiwan-education-center')}}" tabindex="-1">Taiwan Education Center</a></p>
-                                            <p><a href="{{route('menu_path', 'foreign-languages')}}">School of Foreign Languages</a></p>
+                                            <p><a href="{{route('menu_path', 'foreign-languages')}}">School of English</a></p>
                                             <p><a href="{{route('menu_path', 'toefl-courses')}}">TOEFL Courses</a></p>
                                         </div>
                                         <div class="col-1-3">
@@ -475,13 +475,12 @@
                                                     <div id="file-3771" class="file file-image file-image-jpeg" class="file file-image file-image-jpeg">
                                                         <h2 class="element-invisible"><a href="files-detail/megamenubidenjpg.html">megamenu_Biden.jpg</a></h2>
                                                         <div class="content">
-                                                            <img alt="A man and woman at a forum discussion in front of CCD flags" title="Vice President Joe Biden and CCD student discuss Advanced Manufacturing at CCD" class="media-element file-default" typeof="foaf:Image" src="/sites/default/files/megamenu_Biden.jpg" /> </div>
+                                                            <img alt="" title="" class="media-element file-default" typeof="foaf:Image" src="/sites/default/files/megamenu_Biden.jpg" /> </div>
                                                     </div>
                                                 </div>
                                             </p>
-                                            <p>Text text text</a>
                                         </div>
-                                        <div class=" col-1-3">
+                                        <!--<div class=" col-1-3">
                                             <h2>Faculty &amp; Staff</h2>
                                             <div class="col-1-2">
                                                 <h3>Access</h3>
@@ -500,7 +499,7 @@
                                                     <p><a href="administration/non-academic-departments/human-resources/equal-opportunity/how-to-file-complaint.html">Harassment &amp; Discrimination</a></p>
                                                     <p><a href="administration/faculty-staff/website-change-form-request.html" tabindex="-1">Website Change Request </a></div>
                                             <div style="clear:both;"></div>
-                                        </div>
+                                        </div>-->
                                         <div style="clear:both;"></div>
                                     </div>
                                 </div>
