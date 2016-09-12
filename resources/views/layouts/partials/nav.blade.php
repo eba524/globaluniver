@@ -337,6 +337,7 @@
                                             <h2>Admission requirements</h2>
                                             <p>Admission requirements will be added here. <a href="{{route('menu_path', 'admission')}}">Read more</a></p>
                                             <p>- <a href="{{route('apply_path')}}" tabindex="-1">Apply now!</a></p>
+                                            <p>- <a href="{{route('menu_path','how-to-apply')}}" tabindex="-1">How to apply</a></p>
                                         </div>
                                         <div class="col-1-3">
                                             <p>&nbsp;&nbsp;&nbsp;</p>
@@ -427,11 +428,10 @@
 
                                             <h2>Helpful Links</h2>
                                             
-                                            <p>Use the <a href="https://ccd.edu/cost_calculator/" tabindex="-1" target="_blank">Cost Calculator</a> &amp; find out how little you'll pay at GLU where you'll have access to 40 Academic Programs in a wide variety of fields.</p>
-                                            <p>And use these resources to learn more.</p>
+                                            <p>Use these resources to learn more.</p>
                                             <div class="col-1-2">
-                                                <p><a href="#" tabindex="-1" target="_blank">2016-2017 Course Catalog</a></p>
-                                                <p><a href="#">Academic Programs</a></p>
+                                                <p><a href="https://drive.google.com/file/d/0B2YD9OixE0VMZDNiR1kzMzlvOUVTVVNkalJRRWhVV0w0WW5v/view?usp=sharing" tabindex="-1" target="_blank">2016-2017 Undergraduate Course Catalog</a></p>
+                                                <p><a href="https://drive.google.com/file/d/0B2YD9OixE0VMdFFXcVRYam45VkJ2TzZyLWIwMTlZdm5CVmFV/view?usp=sharing" target="_blank">2016-2017 Graduate Course Catalog</a></p>
                                                 <p><a href="#" tabindex="-1">Certificates &amp; Degrees</a></p>
                                                 <p><a href="#" tabindex="-1" target="_blank">Schedule of Courses</a></div>
                                             <div class="col-last col-1-2">
