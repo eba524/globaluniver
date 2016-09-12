@@ -44,10 +44,10 @@ Address</span>
                     <nav id="block-menu-block-1" role="navigation" class="block block--menu-block block--menu-block-1">
                         <div class="menu-block-wrapper menu-block-1 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
                             <ul class="menu">
-                                <li class="first leaf menu-mlid-2673"><a href="{{route('menu_path', 'how-to-apply')}}" target="_blank" class="" title="">Admission Requirements</a></li>
+                                <li class="first leaf menu-mlid-2673"><a href="{{route('menu_path', 'how-to-apply')}}" target="_self" class="" title="">Admission Requirements</a></li>
                                 <li class="leaf menu-mlid-2436"><a href="{{route('apply_path')}}" class="" title="">Application form</a></li>
                                 <li class="leaf menu-mlid-1676"><a href="{{route('menu_path', 'scholarship')}}" class="" title="">Scholarship Information</a></li>
-                                <li class="leaf menu-mlid-2675"><a href="{{route('menu_path', 'undergraduate-programs')}}" target="_blank" class="" title="">Undergradute Programs</a></li>
+                                <li class="leaf menu-mlid-2675"><a href="{{route('menu_path', 'undergraduate-programs')}}" target="_self" class="" title="">Undergradute Programs</a></li>
                                 <li class="leaf menu-mlid-1710"><a href="{{route('menu_path', 'graduate-programs')}}" class="" title="">Graduate Programs</a></li>
                                 <li class="leaf menu-mlid-1677"><a href="{{route('menu_path', 'rotaract')}}" class="" title="">Global Leadership Rotaract Club</a></li>
                                 <li class="leaf menu-mlid-1720"><a href="{{route('menu_path', 'safety')}}" class="" title="">Safety</a></li>
@@ -63,7 +63,7 @@ Address</span>
                         <div class="menu-block-wrapper menu-block-4 menu-name-menu-footer-menu-2 parent-mlid-0 menu-level-1">
                             <ul class="menu">
                                 <li class="first leaf menu-mlid-1765"><a href="{{route('menu_path', 'business')}}" class="" title="">School of Business</a></li>
-                                <li class="leaf menu-mlid-1766"><a href="{{route('menu_path', 'medicine')}}" target="_blank" class="" title="">School of Medicine</a></li>
+                                <li class="leaf menu-mlid-1766"><a href="{{route('menu_path', 'medicine')}}" target="_self" class="" title="">School of Medicine</a></li>
                                 <li class="last leaf menu-mlid-1768"><a href="{{route('menu_path', 'humanities')}}" class="" title="">School of Humanities</a></li>
                             </ul>
                         </div>
