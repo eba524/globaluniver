@@ -310,8 +310,8 @@
                                         -->
                                         <div class="col-last col-1-4">
                                             <h2 class="front-box-menu-item">Safety</h2>
-                                            <p class="front-box-menu-item">Your safety while on campus is important. The video below can help you out in emergency situations.</p>
-                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'safety')}}" class="white small button" target="_self">Watch Standard Response Protocol</a>&nbsp;</div>
+                                            <p class="front-box-menu-item">Your safety while on campus is important to us. Click below to view our campus sefety procedures and advice.</p>
+                                            <p class="front-box-menu-item"><a href="{{route('menu_path', 'safety')}}" class="white small button" target="_self">Campus Safety</a>&nbsp;</div>
                                         <div style="clear:both;"></div>
                                     </div>
                                 </div>
@@ -440,23 +440,17 @@
                                 <div class="mega-menu-item mega-menu-item-1231">
                                     <div class="container">
                                         <div class="col-1-4">
-                                            <h2>Library</h2>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1" target="_self">Library</a></p>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1" target="_self">Text</a></p>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1">Text</a></p>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1" target="_self">Computer Labs</a></p>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1" >Text</a></p>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1" >Text</a></p>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1">Text</a></p>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1" >Text</a></div>
-                                        <div class="col-1-4">
-                                            <h2>Studio</h2>
-                                            <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1">All Academic Programs</a>
-                                                <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1">All Non-Academic Departments</a></p>
-                                                <p>&nbsp;</p>
-                                                <h2>Need Technical Help?</h2>
-                                                <p>Call the GLU Helpdesk at 9901.1662</div>
-                                        <div class="col-1-4">
+                                            <h2>Resources</h2>
+                                            <p><a href="{{route('menu_path', 'library')}}" tabindex="-1" target="_self">Library</a></p>
+                                            <p><a href="{{route('menu_path', 'studio')}}" tabindex="-1" target="_self">Studio</a></p>
+                                            <p><a href="{{route('menu_path', 'global-leader')}}" tabindex="-1">Global Leader</a></p>
+                                            <p><a href="{{route('menu_path', 'computer-labs')}}" tabindex="-1" target="_self">Computer Labs</a></p>
+                                            </div>
+                                        <div class="col-1">
+                                            <h2>Center for Executive Education</h2>
+                                            <p><a href="{{route('menu_path', 'executive-education')}}" tabindex="-1">About</a>
+                                                </div>
+                                        <!--<div class="col-1-4">
                                             <h2>Global Leadership</h2>
                                             <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1">All Student Forms</a>
                                                 <p><a href="{{route('menu_path', 'apply-to-glu')}}" tabindex="-1" target="_blank">Course catalog</a></p>
@@ -464,7 +458,7 @@
                                         <div class="col-last col-1-4">
                                         </div>
                                         <div style="clear:both;"></div>
-                                    </div>
+                                    </div>-->
                                 </div>
                                 <div class="mega-menu-item mega-menu-item-1232">
                                     <div class="container">
