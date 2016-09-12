@@ -194,7 +194,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="menu-1232 menuparent  menu-path-node-1622  even "><a href="#" class="megamenu-item" title="">Schools and Departments</a>
+                            <li class="menu-1232 menuparent  menu-path-node-1622  even "><a href="#" class="megamenu-item" title="">Global Leadership Foundation</a>
                                 <ul>
                                     <li class="menu-1475 menu-path-node-72 first odd "><a href="org/office-president.html">Office of the President</a></li>
                                     <li class="menu-2666 menu-path-node-2801-mid-2666  even "><a href="administration/enrollment-administration-student-success.html" title="Enrollment Administration &amp; Student Success">Enrollment Administration &amp; Student Success</a></li>
@@ -394,26 +394,15 @@
                                             <p>
                                                 
                                             </p>
-                                            <p><a href="{{route('menu_path', 'human-resource')}}" tabindex="-1">Human Resource Management</a></p>
-                                            <p><a href="{{route('menu_path', 'general-medical')}}" tabindex="-1">General Medical</a></p>
-                                            <p><a href="{{route('menu_path', 'financial-management')}}" tabindex="-1">Financial Management</a></p>
-                                            <p><a href="{{route('menu_path', 'mining-management')}}" tabindex="-1">Mining Management</a></p>
-                                            <p><a href="{{route('menu_path', 'banking-accounting')}}" tabindex="-1">Banking and Accounting</a></p>
-                                            <p><a href="{{route('menu_path', 'trade-management')}}" tabindex="-1">International Trade Management</a></p>
-                                            <p><a href="{{route('menu_path', 'computer-networking')}}" tabindex="-1">Computer Networking</a></p>
-                                            <p><a href="{{route('menu_path', 'accounting')}}" tabindex="-1">Accounting</a></p>
-                                            <p><a href="{{route('menu_path', 'tourism-management')}}" tabindex="-1">Tourism Management</a></p>
-                                            <p><a href="{{route('menu_path', 'computer-hardware')}}" tabindex="-1">Computer Hardware</a></p>
-                                            <p><a href="{{route('menu_path', 'business-management')}}" tabindex="-1">Business Management</a></p>
+                                            <p><a href="{{route('menu_path', 'business')}}" tabindex="-1">School of Business</a></p>
+                                            <p><a href="{{route('menu_path', 'medicine')}}" tabindex="-1">School of Medicine</a></p>
+                                            <p><a href="{{route('menu_path', 'humanities')}}" tabindex="-1">School of Humanities</a></p>
                                             </div>
                                         <div class=" col-1-3">
                                             <h2>Graduate Programs</h2>
                                             <div class="col-1-2">
-                                                <p><a href="{{route('menu_path', 'human-resource')}}" tabindex="-1">Business Management</a></p>
+                                                <p><a href="{{route('menu_path', 'human-resource')}}" tabindex="-1">Masters in Business Administration</a></p>
                                                 </div>
-                                            <div class="col-last col-1-2">
-                                                <p><a href="{{route('menu_path', 'human-resource')}}" tabindex="-1">Marketing</a>
-                                                    </p> </div>
                                             <div style="clear:both;"></div>
                                             <div class="media media-element-container media-default">
                                                     <div id="file-2062" class="file file-image file-image-jpeg" class="file file-image file-image-jpeg">
@@ -476,9 +465,9 @@
                                     <div class="container">
                                         <div class="col-last col-1-3">
                                             <h2>Schools</h2>
-                                            <p><a href="{{route('menu_path', 'business')}}" tabindex="-1">School of Business</a></p>
-                                            <p><a href="{{route('menu_path', 'medicine')}}">School of Medicine</a></p>
-                                            <p><a href="{{route('menu_path', 'humanities')}}">School of Humanities</a></p>
+                                            <p><a href="{{route('menu_path', 'taiwan-education-center')}}" tabindex="-1">Taiwan Education Center</a></p>
+                                            <p><a href="{{route('menu_path', 'foreign-languages')}}">School of Foreign Languages</a></p>
+                                            <p><a href="{{route('menu_path', 'toefl-courses')}}">TOEFL Courses</a></p>
                                         </div>
                                         <div class="col-1-3">
                                             <p>&nbsp;</p>
