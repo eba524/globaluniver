@@ -401,7 +401,7 @@
                                         <div class=" col-1-3">
                                             <h2>Graduate Programs</h2>
                                             <div class="col-1-2">
-                                                <p><a href="{{route('menu_path', 'human-resource')}}" tabindex="-1">Masters in Business Administration</a></p>
+                                                <p><a href="{{route('menu_path', 'mba-program')}}" tabindex="-1">Masters in Business Administration</a></p>
                                                 </div>
                                             <div style="clear:both;"></div>
                                             <div class="media media-element-container media-default">
