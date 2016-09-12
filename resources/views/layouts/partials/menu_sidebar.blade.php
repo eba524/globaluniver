@@ -20,18 +20,17 @@
                                 <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
                                     <div class="views-field views-field-field-address">
                                         <div class="field-content">
-                                            <p dir="ltr"><a href="mailto:info@glu.edu.mn">Munkhjargal</a>, GLU&nbsp;Professor
-                                                <br> 9901.1662
+                                            <p dir="ltr"><a href="mailto:info@glu.edu.mn">Munkhjargal Damdinsuren</a><br />President of Academic Affairs
+                                                <br> 99011662
                                             </p>
                                             <p dir="ltr">
                                                 <div class="col-1-2">Global Leadership University
-                                                    <br> Green Lake 51 street
+                                                    <br> 51 Green Lake street
                                                     <br> 11th khoroo, Sukhbaatar District  
                                                     <br> Ulaanbaatar 210620</div>
                                                 <div style="clear:both;"></div>
-                                                <h3 dir="ltr">Start a Conversation with Munkhjargal</h3>
-                                                <p dir="ltr">Munkhjargal welcomes dialog and conversations with GLU students via <a href="https://twitter.com/altanhuy" target="_blank">Twitter</a> and <a href="https://www.facebook.com/GlobalLeadershipUniversity" target="_blank">Facebook</a>.
-                                                    <br> Post your "Selfies" with Munkhjargal on Facebook or Twitter!</p>
+                                                <h3 dir="ltr">Get in touch with the University</h3>
+                                                <p dir="ltr">We welcome dialog and conversations with GLU students via <a href="https://twitter.com/altanhuy" target="_blank">Twitter</a> and <a href="https://www.facebook.com/GlobalLeadershipUniversity" target="_blank">Facebook</a>.</p>
                                         </div>
                                     </div>
                                 </div>
