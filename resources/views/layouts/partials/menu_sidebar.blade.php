@@ -7,7 +7,7 @@
                                 <li class="leaf menu-mlid-2888"><a href="#">Library</a></li>
                                 <li class="leaf menu-mlid-3006"><a href="#" class="" title="">GLU Philosophy</a></li>
                                 <li class="leaf menu-mlid-1585"><a href="#">Meet the Staff</a></li>
-                                <li class="last leaf menu-mlid-2173"><a href="#" class="" title="">Application Form</a></li>
+                                <li class="last leaf menu-mlid-2173"><a href="{{route('apply_path')}}" class="" title="">Application Form</a></li>
                             </ul>
                         </div>
                     </div>
