@@ -75,6 +75,7 @@ return array(
 	    'eventos',
 	    'subimages',
 	    'applicants',
+	    'myfiles',
     ),
 
 	/**
