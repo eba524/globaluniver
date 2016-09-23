@@ -35,6 +35,21 @@
                 <div id="block-nice-menus-1" class="block block--nice-menus block--nice-menus-1">
                     <div class="block__content">
                         <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1">
+                        <li class="menu-1233 menuparent  menu-path-node-1625  odd last"><a href="#" class="megamenu-item" title="">About GLU</a>
+                                <ul>
+                                    <li class="menu-2049 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Learn More</span>
+                                        <ul>
+                                            <li class="menu-1641 menu-path-node-250 first odd "><a href="{{route('menu_path','philosophy')}}">GLU Philosophy</a></li>
+                                            <li class="menu-1642 menu-path-node-251  even "><a href="{{route('menu_path','greetings-chairman')}}">Greetings from the Chairman of the Board</a></li>
+                                            <li class="menu-1643 menu-path-node-252  odd "><a href="{{route('menu_path','greetings-president')}}">Message from the President</a></li>
+                                            <li class="menu-1644 menuparent  menu-path-node-255  even "><a href="{{route('menu_path','accreditation')}}" class="">Accreditation</a></li>
+                                            <li class="menu-1649 menu-path-node-257  odd "><a href="a{{route('menu_path','history')}}">School History</a></li>
+                                            <li class="menu-2052 menu-path-sccdedu-cost-calculator-  even "><a href="{{route('menu_path','location')}}" class="" title="">School Location</a></li>
+                                            <li class="menu-1647 menu-path-node-254  odd "><a href="{{route('menu_path','contact')}}">Contact Information</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
                             <li class="menu-1228 menuparent  menu-path-node-1620 first odd "><a href="#" class="megamenu-item" title="">Admissions</a>
                                 <ul>
                                     <li class="menu-2036 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Admission Information</span>
@@ -110,21 +125,7 @@
                                     <li class="menu-1476 menu-path-node-67  odd "><a href="{{route('menu_path','toefl-courses')}}">TOEFL Courses</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-1233 menuparent  menu-path-node-1625  odd last"><a href="#" class="megamenu-item" title="">About GLU</a>
-                                <ul>
-                                    <li class="menu-2049 menuparent  menu-path-nolink first odd "><span class=" nolink" title="">Learn More</span>
-                                        <ul>
-                                            <li class="menu-1641 menu-path-node-250 first odd "><a href="{{route('menu_path','philosophy')}}">GLU Philosophy</a></li>
-                                            <li class="menu-1642 menu-path-node-251  even "><a href="{{route('menu_path','greetings-chairman')}}">Greetings from the Chairman of the Board</a></li>
-                                            <li class="menu-1643 menu-path-node-252  odd "><a href="{{route('menu_path','greetings-president')}}">Message from the President</a></li>
-                                            <li class="menu-1644 menuparent  menu-path-node-255  even "><a href="{{route('menu_path','accreditation')}}" class="">Accreditation</a></li>
-                                            <li class="menu-1649 menu-path-node-257  odd "><a href="a{{route('menu_path','history')}}">School History</a></li>
-                                            <li class="menu-2052 menu-path-sccdedu-cost-calculator-  even "><a href="{{route('menu_path','location')}}" class="" title="">School Location</a></li>
-                                            <li class="menu-1647 menu-path-node-254  odd "><a href="{{route('menu_path','contact')}}">Contact Information</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -182,8 +183,8 @@
                                     <div class="container">
                                         <div class="col-1-3">
                                             <h2>Admission Information</h2>
-                                            <p>- <a href="{{route('menu_path','apply-to-glu')}}" tabindex="-1">How to Apply</a></p>
-                                            <p>- <a href="{{route('menu_path','how-to-apply')}}" tabindex="-1">Admission Requirements</a></p>
+                                            <p><a href="{{route('menu_path','apply-to-glu')}}" tabindex="-1">How to Apply</a></p>
+                                            <p><a href="{{route('menu_path','how-to-apply')}}" tabindex="-1">Admission Requirements</a></p>
                                         </div>
                                         <div class="col-1-3">
                                             <p>&nbsp;&nbsp;&nbsp;</p>
@@ -211,7 +212,7 @@
                                         <div class="col-1-3">
                                             <h2>Tuition and fees</h2>
                                             <p><a href="{{route('menu_path','apply-to-glu')}}" tabindex="-1">Apply to&nbsp;GLU</a></p>
-                                            <p><a href="{{route('menu_path', 'scholarship')}}" tabindex="-1">Scholarship information</a></p>
+                                            <p><a href="{{route('menu_path', 'scholarship')}}" tabindex="-1">Scholarship Information</a></p>
                                         </div>
                                         <div class="col-1-3">
                                             <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -285,7 +286,7 @@
                                             <p><a href="{{route('menu_path', 'library')}}" tabindex="-1" target="_self">Library</a></p>
                                             <p><a href="{{route('menu_path', 'studio')}}" tabindex="-1" target="_self">Studio</a></p>
                                             <p><a href="{{route('menu_path', 'global-leader')}}" tabindex="-1">Global Leader</a></p>
-                                            <p><a href="{{route('menu_path', 'computer-labs')}}" tabindex="-1" target="_self">Computer Labs</a></p>
+                                            <p><a href="{{route('menu_path', 'computer-labs')}}" tabindex="-1" target="_self">Computer Lab</a></p>
                                         </div>
                                         <div class="col-1">
                                             <h2>Center for Executive Education</h2>
