@@ -3,7 +3,7 @@
                     <div class="block__content">
                         <div class="menu-block-wrapper menu-block-ccd_sidebar_menu menu-name-main-menu parent-mlid-0 menu-level-4">
                             <ul class="menu">
-                                <li class="first leaf menu-mlid-1901"><a href="#">Course Catalog 2016-2017</a></li>
+                                <li class="first leaf menu-mlid-1901"><a href="http://enkhbat.xyz/assets/files/xhE2cFDO1fEIuTZBQcjU.pdf" target="_blank">2016-2017 Academic Calendar</a></li>
                                 <li class="leaf menu-mlid-2888"><a href="#">Library</a></li>
                                 <li class="leaf menu-mlid-3006"><a href="#" class="" title="">GLU Philosophy</a></li>
                                 <li class="leaf menu-mlid-1585"><a href="#">Meet the Staff</a></li>

@@ -56,6 +56,7 @@
                                         <ul>
                                             <li class="menu-1903 menu-path-node-1157  even "><a href="{{route('menu_path','apply-to-glu')}}" class="">How to Apply</a></li>
                                             <li class="menu-1234 menu-path-node-1168  odd "><a href="{{route('menu_path','how-to-apply')}}" class="">Admission Requirements</a></li>
+                                            <li class="menu-1903 menu-path-node-1157  even "><a href="{{route('menu_path','academic-calendar')}}" class="">Academic Calendar</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -64,7 +65,7 @@
                                 <ul>
                                     <li class="menu-2056 menuparent  menu-path-nolink first odd last"><span class=" nolink" title="">Tuition &amp; Fees</span>
                                         <ul>
-                                            <li class="menu-1904 menu-path-node-1157-mid-1904 first odd "><a href="{{route('menu_path', 'apply-to-glu')}}" title="Apply to GLU Today!">Apply to GLU Today</a></li>
+                                            <li class="menu-1904 menu-path-node-1157-mid-1904 first odd "><a href="{{route('menu_path', 'bursar')}}" title="">Bursar</a></li>
                                             <li class="menu-1251 menu-path-node-69  even "><a href="{{route('menu_path','scholarship')}}">Scholarship Information</a></li>
                                         </ul>
                                     </li>
@@ -185,6 +186,7 @@
                                             <h2>Admission Information</h2>
                                             <p><a href="{{route('menu_path','apply-to-glu')}}" tabindex="-1">How to Apply</a></p>
                                             <p><a href="{{route('menu_path','how-to-apply')}}" tabindex="-1">Admission Requirements</a></p>
+                                            <p><a href="{{route('menu_path','academic-calendar')}}" tabindex="-1">Academic Calendar</a></p>
                                         </div>
                                         <div class="col-1-3">
                                             <p>&nbsp;&nbsp;&nbsp;</p>
